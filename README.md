@@ -14,8 +14,7 @@ We Are an Al-Safa Group solution provider with Zatca, and we finish all integrat
 
 >second part
 
-development the required screens on the Ax system 2012 & 2009
-development on the Ax 2012 POS system to make the following:
+development of the required screens on the AX system 2012 and 2009 development on the Ax 2012 POS system, or any other system to make the following:
 
 - onboard all the registers 
 - make invoice reporting
