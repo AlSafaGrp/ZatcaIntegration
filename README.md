@@ -1,5 +1,6 @@
 # Zatca Integration Phase 2
-We Are Al-Safa Group solution provider with zatca, and we finish all integration steps with zatca Phace 2 requerment:
+We Are an Al-Safa Group solution provider with Zatca, and we finish all integration steps with Zatca Phase 2 requirements:
+
 
 
 >First Part
